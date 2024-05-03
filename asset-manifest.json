@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Physics-Lab-13/static/css/main.e62f5152.css",
+    "main.js": "/Physics-Lab-13/static/js/main.e36821a7.js",
+    "static/js/453.7b8afcca.chunk.js": "/Physics-Lab-13/static/js/453.7b8afcca.chunk.js",
+    "index.html": "/Physics-Lab-13/index.html",
+    "main.e62f5152.css.map": "/Physics-Lab-13/static/css/main.e62f5152.css.map",
+    "main.e36821a7.js.map": "/Physics-Lab-13/static/js/main.e36821a7.js.map",
+    "453.7b8afcca.chunk.js.map": "/Physics-Lab-13/static/js/453.7b8afcca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62f5152.css",
+    "static/js/main.e36821a7.js"
+  ]
+}
